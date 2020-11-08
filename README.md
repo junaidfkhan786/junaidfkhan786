@@ -1,15 +1,15 @@
-# Hello, I am Aawez Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# Hello, I am Junaid Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 
 
-<a href="https://github.com/aawezk786">
+<a href="https://github.com/junaidfkhan786">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=aawezk786&column=6&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=junaidfkhan786&column=6&theme=onedark"/>
     </p>
 </a>
-<a align="center" href="https://github.com/aawezk786">
+<a align="center" href="https://github.com/junaidfkhan786">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=junaidfkhan786&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 </a>
 
@@ -32,12 +32,10 @@ Strong background working in **Linux,Apache,Nginx,MySQL**
 ## 📫 How to reach me:
 
 
-📷 Instagram: [@aawezk786](https://www.instagram.com/aawezk786/)<br>
-🧳 LinkedIn: [Aawez Khan](https://www.linkedin.com/in/aawez-khan-90459517b/)
+ 📷 Instagram: [@junaidkhan](https://www.instagram.com/junaid.khan.786/)<br>
+🧳 LinkedIn: [Junaid Khan](https://www.linkedin.com/in/junaid-khan-01b9a2198/)
 <br>
 
-## ⚡ Fun fact:
-* I solve LeetCode questions.
 
 <div align="center">
 
