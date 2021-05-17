@@ -35,7 +35,7 @@ Strong background working in **Linux,Apache,Nginx,MySQL**
 ## 📫 How to reach me:
 
 
- 📷 Instagram: [@junaidkhan](https://www.instagram.com/junaid.khan.786/)<br>
+ 📷 Instagram: [@junaidkhan](https://www.instagram.com/jk__dev/)<br>
 🧳 LinkedIn: [Junaid Khan](https://www.linkedin.com/in/junaid-khan-01b9a2198/)
 <br>
 
